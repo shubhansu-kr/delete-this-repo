@@ -83,3 +83,13 @@ function out() {
 }
 
 out()();
+
+var x = 21, b = 10;
+console.log(x, b);
+function swap(a, b) {
+    let temp = a;
+    a = b;
+    b = temp;
+}
+console.log(x, b);
+
