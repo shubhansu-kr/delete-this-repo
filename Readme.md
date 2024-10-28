@@ -7,7 +7,7 @@
 - Basic Git commands
 - Creating first PR
 - Resolving merge conflicts
-- Rebasing, cherry-picking 
+- Rebasing, cherry-picking
 
 ## Design for Developers
 
